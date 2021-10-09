@@ -1,6 +1,6 @@
-#王里的小屋
+# 笔记
 
-##[数学建模](https://asidemore.github.io/math)
+[数学建模](https://asidemore.github.io/math)
 
 
 
